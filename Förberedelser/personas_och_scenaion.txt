@@ -1,0 +1,20 @@
+Scenario 1:
+Daniel är förälder till Kim som ska börja i grundskolan. Daniel vill veta allt om skolan som hans barn eventuellt ska börja på. Han trycker på fliken "Om Oss" och ser börjar läsa. Han går sedan vidare till fliken "Kontakta Oss" där han ser vilka lärare som jobbar på skolan. Nu kan Daniel börja stalka skolans personal på Facebook.
+
+Scenario 2:
+Martina är lärare på grundskolan. Hon vill veta vilka veckor hon har lov för att kunna planera sin semester till Göteborg. Hon går då in på sidan "Allmän Information" och läser när skolan är stängd. När hon ändå är där så tar hon även och passar på att läsa igenom skolans regler. "Oj, får man inte klottra på toaletterna?", Tänker hon. "Det visste jag inte..."
+
+Scenario 3:
+Ragnar är elev på grundskolan. Han tycker väldigt mycket om mat och vill se vilken mat skolan serverar den här veckan. Han går då in på sidan “matsedel” och tittar vilken mat det blir. Det ser gott ut.
+
+Scenario 4:
+Kim är rektor på grundskolan. Hen har glömt bort en av sina lärares efternamn, och går då in på sidan “kontakta oss” för att se vad läraren heter.
+
+Scenario 5:
+Liselotte är brevbärare och ska leverera post till grundskolan. Hon vill veta var den ligger och går då in på sidan "hitta hit", där hon kan se en google-karta över skolan.
+
+Scenario 6:
+Lo vill sjukanmäla sitt barn. Hen går då till fliken "kontakta oss" och kontrollerar numret till receptionen.
+
+Scenario 7:
+Mattias är elev på Skolgrunden och vill veta när han börjar imorgon. Han går in på sidan "scheman" och ser att han har sovmorgon imorgon. "Gud vad skönt, då kan jag spela World of Warcraft till klockan tre inatt", tänker han.

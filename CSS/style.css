@@ -1,0 +1,45 @@
+body{
+    background-color: lightgrey;
+}
+
+#header{
+    font-size: 4vw;
+    position: relative;
+    text-align: center;
+}
+
+#links{
+    position: relative;
+    text-align: center;
+    top: 0.3vw;
+}
+
+#header a:visited{
+    color: black;
+}
+
+#header a:link{
+    color: black;
+}
+
+#links a:visited{
+    color: black;
+}
+
+#links a:link{
+    color: black;
+}
+
+#om_oss{
+    font-size: 2vw;
+    position: relative;
+    text-align: center;
+    top: 2vw;
+    text-decoration: underline;
+}
+
+#infotext{
+    border: solid black;
+    position: absolute;
+    top: 12vw;
+}
