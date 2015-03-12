@@ -74,7 +74,35 @@ body{
     border: solid black;
     top: 12vw;
     left: 3vw;
-    margin-right: 55vw;
+    margin-right: 54vw;
     line-height: 2vw;
 }
 
+#omossbilder{
+    margin-top: 4vw;
+    margin-right: 0.5vw;
+}
+
+#omossbilder1{
+    position: relative;
+    float: right;
+}
+
+#omossbilder2{
+    position: relative;
+    float: right;
+    margin-left: 30vw;
+}
+
+#matsedel{
+    font-size: 2vw;
+    position: relative;
+    text-align: center;
+    top: 2vw;
+    text-decoration: underline;
+}
+
+#matsedelbild{
+    margin-top: 3vw;
+    text-align: center;
+}
