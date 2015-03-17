@@ -106,3 +106,97 @@ body{
     margin-top: 3vw;
     text-align: center;
 }
+
+#kottbullar{
+    color: lightgrey;
+}
+
+#hitta_hit{
+    font-size: 2vw;
+    position: relative;
+    text-align: center;
+    top: 2vw;
+    text-decoration: underline;
+}
+
+#adresser {
+    position: relative;
+    margin-top: 4vw;
+    left: 3vw;
+    margin-right: 70vw;
+    line-height: 0.7vw;
+    float: left;
+    display: block;
+}
+
+#address{
+    text-decoration: underline;
+    font-size: 1.6vw;
+    display: block;
+}
+
+#map-canvas{
+    position: absolute;
+    width: 43vw;
+    height: 33vw;
+    right: 1vw;
+    top: 13.5vw;
+}
+
+#schema{
+    font-size: 2vw;
+    position: relative;
+    text-align: center;
+    top: 2vw;
+    text-decoration: underline;
+}
+
+#schemabild{
+    margin-top: 3vw;
+    text-align: center;
+}
+
+#kontakta_oss{
+    font-size: 2vw;
+    position: relative;
+    text-align: center;
+    top: 2vw;
+    text-decoration: underline;
+}
+
+#kontakter{
+    position: absolute;
+    margin-top: 4vw;
+    left: 3vw;
+    line-height: 0.7vw;
+    float: left;
+    display: block;
+}
+
+#kontakt{
+    text-decoration: underline;
+    font-size: 1.6vw;
+    display: block;
+}
+
+#kontakter2{
+    position: absolute;
+    margin-top: 4vw;
+    line-height: 0.7vw;
+    float: left;
+    left: 3vw;
+    top: 25vw;
+    display: block;
+}
+
+#kontakt2{
+    text-decoration: underline;
+    font-size: 1.6vw;
+    display: block;
+}
+
+#fish{
+    float: right;
+    margin-top: 4vw;
+    margin-right: 1vw;
+}
